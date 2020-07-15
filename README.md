@@ -51,6 +51,5 @@ Full youtube video of demo can be found here: https://youtu.be/_-spc5U9u3E
 Note: the current release of AutonoMas does not detect cars but if your are interested search for haarcascades
 
 
-## Conclusions
-
 ## Aknowledgements
+Most of the learning resources I used for this project came from OpenCVs Docs and many different articles, videos, and github posts.
