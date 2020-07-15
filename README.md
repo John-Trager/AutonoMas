@@ -47,6 +47,7 @@ Resulting Image
 ![gif](https://media.giphy.com/media/L4gFj7QQiwnbZUIt25/giphy.gif)
 
 Full youtube video of demo can be found here: https://youtu.be/_-spc5U9u3E
+
 Note: the current release of AutonoMas does not detect cars but if your are interested search for haarcascades
 
 
