@@ -44,6 +44,10 @@ Resulting Image
 
 ![resulting image](media/result.png)
 
+![gif](https://media.giphy.com/media/L4gFj7QQiwnbZUIt25/giphy.gif)
+
+Note: the current of AutonoMas does not detect cars but if your are interested search for haarcascades
+
 
 ## Conclusions
 
