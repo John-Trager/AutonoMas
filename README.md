@@ -24,19 +24,25 @@ The algorithm uses 8 filters and functions to detect lane lines.
 9. Moving average for Extapolation Lines
 
 Orginal Image
+
 ![original image](media/original.png)
 
 Masked Image
+
 ![masked image](media/masked.png)
 
 Filtering (Color HSL and Gray Scale, Sobel, and Canny Edge Detection)
+
 ![Filtering1 image](media/Filtering1.png)
 
 Filtering Adaptive Binary Threshold
+
 ![Filtering2 image](media/Filtering2.png)
 
 Resulting Image
+
 ![resulting image](media/result.png)
+
 
 ## Conclusions
 
