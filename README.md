@@ -23,6 +23,7 @@ The algorithm uses 8 filters and functions to detect lane lines.
 8. Extapolation and averaging of Hough Lines 
 9. Moving average for Extapolation Lines
 
+
 Orginal Image
 
 ![original image](media/original.png)
