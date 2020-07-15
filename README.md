@@ -44,9 +44,9 @@ Resulting Image
 
 ![resulting image](media/result.png)
 
-![gif](https://media.giphy.com/media/L4gFj7QQiwnbZUIt25/giphy.gif)
+![gif](https://media.giphy.com/media/L4gFj7QQiwnbZUIt25/giphy.gif)(https://youtu.be/_-spc5U9u3E)
 
-Note: the current of AutonoMas does not detect cars but if your are interested search for haarcascades
+Note: the current release of AutonoMas does not detect cars but if your are interested search for haarcascades
 
 
 ## Conclusions
