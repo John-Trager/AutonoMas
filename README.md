@@ -40,7 +40,7 @@ Filtering Adaptive Binary Threshold
 
 ![Filtering2 image](media/Filtering2.png)
 
-Resulting Image
+Resulting Image (including filters 7,8,9)
 
 ![resulting image](media/result.png)
 
@@ -52,4 +52,4 @@ Note: the current release of AutonoMas does not detect cars but if your are inte
 
 
 ## Aknowledgements
-Most of the learning resources I used for this project came from OpenCVs Docs and many different articles, videos, and github posts.
+Most of the learning resources I used for this project came from OpenCVs Docs and many different articles, videos, and github repos.
